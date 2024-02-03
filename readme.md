@@ -1,7 +1,7 @@
 
-# Project Title
+# Simple DB
 
-A Simple Database
+A Simple Database similar to redis: it allows get, set and delete operations
 
 ## Getting Started
 
